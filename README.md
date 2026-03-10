@@ -41,6 +41,7 @@ Get 10% OFF GLM CODING PLAN：https://z.ai/subscribe?ic=8JVLJQFSKB
 - Qwen Code support via OAuth login
 - iFlow support via OAuth login
 - GitLab Duo support via OAuth or personal access token login
+- Native GitLab AI gateway routing for Anthropic and OpenAI/Codex managed models
 - Amp CLI and IDE extensions support with provider routing
 - Streaming and non-streaming responses
 - Function calling/tools support
@@ -61,6 +62,8 @@ Get 10% OFF GLM CODING PLAN：https://z.ai/subscribe?ic=8JVLJQFSKB
 
 CLIProxyAPI Guides: [https://help.router-for.me/](https://help.router-for.me/)
 
+GitLab Duo guide: [docs/gitlab-duo.md](docs/gitlab-duo.md)
+
 ## Management API
 
 see [MANAGEMENT_API.md](https://help.router-for.me/management/api)
@@ -79,6 +82,7 @@ CLIProxyAPI includes integrated support for [Amp CLI](https://ampcode.com) and A
 
 ## SDK Docs
 
+- GitLab Duo: [docs/gitlab-duo.md](docs/gitlab-duo.md)
 - Usage: [docs/sdk-usage.md](docs/sdk-usage.md)
 - Advanced (executors & translators): [docs/sdk-advanced.md](docs/sdk-advanced.md)
 - Access: [docs/sdk-access.md](docs/sdk-access.md)
